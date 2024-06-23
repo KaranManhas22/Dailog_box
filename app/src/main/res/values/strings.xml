@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dailog_box</string>
+    <string name="single_choice">Single choice</string>
+    <string name="types_of_dialog_box">Types of Dialog box</string>
+    <string name="multiple_choice">Multiple_choice</string>
+    <string name="multiple">Multiple choice</string>
+</resources>
